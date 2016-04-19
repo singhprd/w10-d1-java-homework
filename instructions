@@ -1,0 +1,21 @@
+Homework 1
+
+Give me my change!
+
+Refactor your CashRegister.java program so that it can print out the coins that make up a person's change.
+
+Rename method giveChange() to calculateChange()
+
+Add a new method giveChange() which calls calculateChange() method and stores the result in a double variable then determines how many of each coin to return and prints the results in the console.
+
+HINT: Review syntax for if then else statements: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html
+
+
+Example output:
+Cash to be given: £4.89
+£1 coins : 4
+50p coins: 1
+20p coins: 1
+10p coins: 1
+5p coins: 1
+2p coins: 2
